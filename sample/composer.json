@@ -1,0 +1,16 @@
+{
+    "name": "kangketik/sample",
+    "description": "Sample composer for headless composer 74",
+    "type": "project",
+    "require": {
+        "php": "7.4.*",
+        "mpdf/mpdf": "^8.0"
+    },
+    "authors": [
+        {
+            "name": "Gilang Pratama",
+            "email": "pratamapriadi96@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
